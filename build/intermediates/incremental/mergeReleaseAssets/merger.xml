@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\ASproject\DemoGather\Modules\Material\MaterialRefreshLayout\src\main\assets"/><source path="E:\ASproject\DemoGather\Modules\Material\MaterialRefreshLayout\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\ASproject\DemoGather\Modules\Material\MaterialRefreshLayout\src\release\assets"/></dataSet></merger>
